@@ -1,0 +1,11 @@
+body {
+	font-family: 'Roboto', 'Sans Serif';
+	font-size: 16px;
+	padding: 0;
+	margin: 0;
+}
+
+.title {
+	text-align: center;
+	color: #3E6D93;
+}
