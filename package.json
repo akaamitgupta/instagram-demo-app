@@ -1,0 +1,18 @@
+{
+  "name": "instagram",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "babel": "babel --presets es2015 js/app.js -o build/app.bundle.js",
+    "start": "http-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-cli": "^6.22.2",
+    "babel-core": "^6.22.1",
+    "babel-preset-es2015": "^6.22.0",
+    "http-server": "^0.9.0"
+  }
+}
